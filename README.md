@@ -64,15 +64,3 @@ The assignments are divided into **CA1** and **CA2**, each with modular C++ impl
   cd CA2/q1   # Replace q1 with q2, q3, etc.
   g++ -std=gnu++17 -O2 main.cpp -o q1
   ./q1
-````
-
----
-
-## Notes
-
-* Repository is structured for **clarity and modularity**.
-* Only **essential code files** are tracked; auxiliary files, archives, and outputs are excluded.
-* All implementations are optimized for **time and space efficiency**.
-* This repository is submission-ready for **DSA course at University of Tehran**.
-
----
