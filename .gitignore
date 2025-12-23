@@ -1,0 +1,20 @@
+# CA1
+CA1/Farvardin-610002051-CA1.zip
+CA1/mp
+CA1/mp.cpp
+CA1/music_player
+CA1/music_player.cpp
+
+# CA2 unwanted files
+CA2/11.cpp
+CA2/22.cpp
+CA2/33.cpp
+CA2/44.cpp
+CA2/55.cpp
+CA2/CA2.pdf
+CA2/output.txt
+CA2/test1.txt
+
+# build artifacts
+*.o
+a.out
